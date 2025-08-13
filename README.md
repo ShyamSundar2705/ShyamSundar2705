@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="GitHub_Banner" alt="GitHub Banner" width="100%" />
+  <img src="GitHub_Banner.png" alt="GitHub Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shyam Sundar</h1>
