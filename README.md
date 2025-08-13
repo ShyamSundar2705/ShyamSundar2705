@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://chatgpt.com/s/m_689ca38efae4819195160121b96b7087" alt="GitHub Banner" width="100%" />
+  <img src="GitHub_Banner" alt="GitHub Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shyam Sundar</h1>
