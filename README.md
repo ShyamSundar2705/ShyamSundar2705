@@ -1,86 +1,107 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="GitHub_Banner.png" alt="GitHub Banner" width="100%" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Shyam Sundar</h1>
-<h3 align="center">Aspiring AI/ML Engineer | Passionate About Building Impactful Solutions</h3>
+# Shyam Sundar
+### Full-Stack Engineer · GenAI & Cloud Systems · Builder
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShyamSundar2705&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /> 
-  <img src="https://img.shields.io/github/followers/ShyamSundar2705?label=Followers&style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/ShyamSundar2705?affiliations=OWNER%2CCOLLABORATOR" alt="GitHub stars" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arshyamsundar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshyamsundar/)
+[![Email](https://img.shields.io/badge/Email-shyamarunach@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shyamarunach@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/ShyamSundar2705?label=Follow&style=social)](https://github.com/ShyamSundar2705)
+
+</div>
 
 ---
 
-## 🚀 About Me
-- 🌱 Currently exploring **AI/ML, Data Science & Full-Stack Development**  
-- 🎯 Goal: Secure an **AI/ML Internship** in 2025 and grow into a **product-based company** role  
-- 📚 Building projects that solve **real-world problems**  
-- ⚡ Fun fact: I start with *“I didn’t know anything”* and end with *“Now I’ve built something!”*
+I'm a computer science student who builds production-grade systems — not just prototypes. I've shipped a multilingual AI clinical documentation tool deployed on AWS EC2 with SSL, a cloud-native resume analyzer using serverless AWS + Groq LLMs, and a suite of productivity apps. I work across the full stack: FastAPI backends, React 19 frontends, Docker, and cloud infra.
+
+Currently focused on **GenAI application development** and **scalable cloud architectures**.
 
 ---
 
-## 🛠️ Skills & Tools
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+## 🚀 Featured Projects
 
-**AI/ML Tools:**  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) *(Learning)*  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) *(Learning)*  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) *(Learning)*  
+### VaidyaScribe — Multilingual AI Clinical Documentation System
+> **Cognizant Technoverse 2026 Hackathon**
 
-**Web & App Development:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) *(Learning)*  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) *(Learning)*  
+A production-deployed clinical assistant for Tamil/English-speaking doctors. Generates SOAP notes via Groq (Llama 3.3-70B), includes a prescription pad, burnout dashboard, and patient history search — all behind JWT auth.
 
-**Platforms & Cloud:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) *(Learning)*  
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) *(Learning)*  
-
-**Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) *(Learning)*  
+**Stack:** FastAPI · LangGraph · React 19 · Groq API · Docker Compose · AWS EC2 · Let's Encrypt SSL · DuckDNS  
+**Highlights:** Live EC2 deployment · HTTPS with custom domain · Zustand state management · Multilingual ASR pipeline
 
 ---
 
-## 🌟 Featured Projects
+### Resume Insights — Cloud-Native Resume Analyzer & Skill Gap Detector
+> **College Mini Project (CPPE Framework)**
 
-### [📱 HabitFlow – Daily Habit Tracker](https://github.com/ShyamSundar2705/HabitFlow)
-*Mobile app for tracking daily habits, improving consistency, and building better routines.*  
-![HabitFlow Screenshot](https://via.placeholder.com/500x250.png?text=Add+Your+App+Screenshot)
+End-to-end serverless system that parses resumes, runs skill gap analysis via Groq (Llama 3.1), and surfaces recommendations through a polished React UI — all on AWS serverless infrastructure.
+
+**Stack:** React + Vite + Tailwind CSS · AWS Lambda · API Gateway · DynamoDB · S3 · Groq API  
+**Highlights:** Fully serverless · IAM-secured · Custom animated UI · DynamoDB single-table design
 
 ---
 
-### [🧠 MindLock Study](https://github.com/ShyamSundar2705/MindLock-Study)
-*Productivity app to help students focus and manage study sessions efficiently.*  
-![MindLock Screenshot](https://via.placeholder.com/500x250.png?text=Add+Your+App+Screenshot)
+### HabitFlow — Daily Habit Tracker
+A mobile-first habit tracking app built for consistency and daily ritual management.
+
+**Stack:** Flutter (in progress) · Firebase
+
+---
+
+### MindLock Study — Student Productivity App
+Focus and study session manager with session analytics for students.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+**Backend & AI**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_API-FF6C37?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShyamSundar2705&show_icons=true&theme=radical" alt="GitHub stats" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShyamSundar2705&theme=radical" alt="GitHub streak" height="180em" />
-</p>
+
+<div align="center">
+
+![Shyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShyamSundar2705&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamSundar2705&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+</div>
 
 ---
 
-## 📫 Connect With Me
-<p>
-  <a href="mailto:shyamarunach@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/arshyamsundar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+<div align="center">
 
----
-<p align="center">⭐️ From <a href="https://github.com/ShyamSundar2705">Shyam Sundar</a></p>
+*I start with a problem. I end with a deployed system.*
+
+</div>
