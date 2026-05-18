@@ -39,15 +39,19 @@ End-to-end serverless system that parses resumes, runs skill gap analysis via Gr
 
 ---
 
-### HabitFlow — Daily Habit Tracker
-A mobile-first habit tracking app built for consistency and daily ritual management.
+### StudyTrack — Real-Time Study Timer & Group App
+A full-featured mobile study companion with live group presence, streak tracking, and analytics — tested on a physical Android device via Expo Go.
 
-**Stack:** Flutter (in progress) · Firebase
+**Stack:** React Native 0.81 + Expo · Fastify v5 + TypeScript · PostgreSQL + Prisma · Supabase (Google OAuth + JWT) · Socket.io · Zustand v5  
+**Highlights:** Real-time group study rooms via Socket.io · Supabase → custom JWT auth flow · Study heatmap + weekly bar charts · Interrupted session resume via AsyncStorage · Railway/Fly.io backend deployment
 
 ---
 
-### MindLock Study — Student Productivity App
-Focus and study session manager with session analytics for students.
+### Gesture-Based Home Automation System
+Touchless appliance control using computer vision — a webcam reads hand gestures and sends commands to an ESP32 microcontroller that switches physical relays, with real-time LCD status display. No internet required.
+
+**Stack:** Python · OpenCV · MediaPipe · PySerial · ESP32 (Arduino/C++) · 4-Channel Relay Module  
+**Highlights:** Fog-layer architecture for sub-100ms latency · Hardware-level relay + MOSFET switching · Gesture validation pipeline to prevent false triggers · Works fully offline
 
 ---
 
@@ -63,6 +67,7 @@ Focus and study session manager with session analytics for students.
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
@@ -71,6 +76,8 @@ Focus and study session manager with session analytics for students.
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat&logo=langchain&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_API-FF6C37?style=flat)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
 
 **Cloud & Infrastructure**
@@ -93,8 +100,11 @@ Focus and study session manager with session analytics for students.
 
 <div align="center">
 
-![Shyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShyamSundar2705&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamSundar2705&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+<img src="https://github-readme-stats.vercel.app/api?username=ShyamSundar2705&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" alt="Shyam's GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamSundar2705&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com?user=ShyamSundar2705&theme=github-dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
 
 </div>
 
