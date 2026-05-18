@@ -100,9 +100,13 @@ Touchless appliance control using computer vision — a webcam reads hand gestur
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShyamSundar2705&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" alt="Shyam's GitHub Stats" />
+<!-- Stats generated daily via GitHub Actions — never broken -->
+<img src="github-stats.svg" alt="GitHub Stats" />
+<img src="top-langs.svg" alt="Top Languages" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamSundar2705&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=ShyamSundar2705&theme=github-dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
 
