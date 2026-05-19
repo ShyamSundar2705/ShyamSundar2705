@@ -1,7 +1,7 @@
 <div align="center">
 
 # Shyam Sundar
-### Full-Stack Engineer · GenAI & Cloud Systems · Builder
+### Full Stack Developer · Cloud Engineer · AI Builder
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arshyamsundar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshyamsundar/)
 [![Email](https://img.shields.io/badge/Email-shyamarunach@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shyamarunach@gmail.com)
@@ -68,6 +68,7 @@ Touchless appliance control using computer vision — a webcam reads hand gestur
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
@@ -93,6 +94,26 @@ Touchless appliance control using computer vision — a webcam reads hand gestur
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+---
+
+## 💼 Experience
+
+**Prompt Engineering for AI — Virtual Intern** · EduSkills / AICTE · Jan 2026 – Mar 2026  
+10-week program covering prompting techniques, OpenAI API, Hugging Face Transformers, text/code generation, chatbot design, and image generation (DALL-E/Midjourney).
+
+**Python Full Stack Developer — Virtual Intern** · EduSkills Academy · Oct 2024 – Dec 2024  
+10-week full stack program covering Python backend development, frontend integration, and production-ready web apps.
+
+**Cybersecurity — Virtual Intern** · EduSkills / AICTE (Palo Alto Networks) · Apr 2024 – Jun 2024  
+Hands-on training in network security, threat analysis, and cybersecurity fundamentals via Palo Alto Networks.
+
+---
+
+## 📈 By the Numbers
+
+| 4+ Projects Shipped | 3 Cloud Certifications | 1 Hackathon |
+|:---:|:---:|:---:|
 
 ---
 
